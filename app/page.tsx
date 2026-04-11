@@ -23,15 +23,6 @@ export default function Home() {
         <div className="w-full sm:block hidden">
           <div className=" flex flex-col items-center justify-center min-h-screen text-center space-y-2">
 
-            <Shuffle
-              text="Welcome to"
-              className="text-3xl md:text-5xl font-bold"
-            />
-
-            <Shuffle
-              text="my portfolio"
-              className="text-3xl md:text-5xl font-bold"
-            />
 
           </div>
         </div>
