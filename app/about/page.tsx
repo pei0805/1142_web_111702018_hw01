@@ -29,7 +29,7 @@ export default function About() {
             </div>
 
 
-            <div className="flex gap-10 mt-6 px-4">
+            <div className="flex flex-col sm:flex-row gap-10 mt-6 px-4">
               <div className="w-1/2 ">
                 <div className="text-[#4f5a8d] font-bold text-[20px]">Education</div>
                 <div className="p-2">
